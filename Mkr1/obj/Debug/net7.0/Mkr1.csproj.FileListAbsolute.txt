@@ -1,0 +1,15 @@
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/bin/Debug/net7.0/Mkr1
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/bin/Debug/net7.0/Mkr1.deps.json
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/bin/Debug/net7.0/Mkr1.runtimeconfig.json
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/bin/Debug/net7.0/Mkr1.dll
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/bin/Debug/net7.0/Mkr1.pdb
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.csproj.AssemblyReference.cache
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.AssemblyInfoInputs.cache
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.AssemblyInfo.cs
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.csproj.CoreCompileInputs.cache
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.dll
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/refint/Mkr1.dll
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.pdb
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/Mkr1.genruntimeconfig.cache
+/Users/oleksandr/Desktop/Design Pattern/Mkr1/obj/Debug/net7.0/ref/Mkr1.dll
